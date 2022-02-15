@@ -1,0 +1,35 @@
+body{
+    font-family: cursive;
+    background-color: blue;
+}
+.header_div{
+    background-color: white;
+    color: black;
+}
+.header_div p{
+    font-family: 'roboto',sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.main_div button{
+    font-family: 'roboto',sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+.copy_right_footer{
+    position: fixed;
+    width: 100%;
+    text-shadow: 5px 5px 5px gray;
+    color: gray;
+    bottom: 0;
+    background-color: white;
+    line-height: 3;
+    font-size: 12px;
+    text-align: center;
+}
